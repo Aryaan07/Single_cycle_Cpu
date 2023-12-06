@@ -1,0 +1,4 @@
+--2023-11-25 15:05:41--  https://raw.githubusercontent.com/Homebrew/homebrew-core/86447d2239a9ebc4d98607fd4ae5b034d3349c02/Formula/verilator.rb
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 2405:200:1607:2820:41::36, 49.44.79.236
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|49.44.79.236|:443... failed: Connection refused.
